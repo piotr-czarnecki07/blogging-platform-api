@@ -1,0 +1,6 @@
+info.txt
+venv/
+bloggingPlatform/.env
+bloggingPlatform/db.sqlite3
+bloggingPlatform/static/
+**/__pycache__/
