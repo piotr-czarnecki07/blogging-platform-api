@@ -1,7 +1,7 @@
 # IMPORTANT
 
-The database might be unavailable due to the limitations of the free plan. \
-In such a case, the API will not work and will return a verbose exception. \
+The database might be unavailable due to the limitations of the provider's free plan. \
+In such a case, the API will not work and will return a verbose exception. 
 
 # Overview
 
